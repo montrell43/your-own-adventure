@@ -22,6 +22,21 @@ body {
     text-align: center;
 }
 
+.ignore {
+     margin: 20px; 
+    background-image: url(images/walk.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    color: red;
+    text-align: center;
+
+    a {
+        color: red;
+    }
+}
+
 a { display: block; 
     margin-top: 10px;
     color: white;
