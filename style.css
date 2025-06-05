@@ -48,38 +48,3 @@ p {
     font-size: 24px;
 }
 
-.lost {
-    body {
-    display: flex;
-    flex-direction: column;
-    font-family: Arial, sans-serif; 
-    line-height: 1.6; 
-    margin: 20px; 
-    background-image: url(images/lost.jpg);
-    background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
-    justify-content: center;
-    text-align: center;
-    align-items: center;
-    color: white;
-}
-
-a { 
-    display: block; 
-    margin: 10px; 
-    text-decoration: none;
-    color: rgb(249, 244, 244);
-    font-size: 24px;
-    margin-top: 10px;
-}
-
-p {
-    color: white;
-    font-size: 25px;
-}
-
-h1 {
-    margin-bottom: 275px;
-}
-}
